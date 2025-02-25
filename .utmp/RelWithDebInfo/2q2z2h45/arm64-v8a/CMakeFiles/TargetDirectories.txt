@@ -1,0 +1,5 @@
+/Users/louisbocquet/Unity/My project/.utmp/RelWithDebInfo/2q2z2h45/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/louisbocquet/Unity/My project/.utmp/RelWithDebInfo/2q2z2h45/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/louisbocquet/Unity/My project/.utmp/RelWithDebInfo/2q2z2h45/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/louisbocquet/Unity/My project/.utmp/RelWithDebInfo/2q2z2h45/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/louisbocquet/Unity/My project/.utmp/RelWithDebInfo/2q2z2h45/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
